@@ -1,5 +1,5 @@
 # GitHub Action - Collaborator Offboarding
-Based on the activity (e.g. login, commits etc), and external collaborator can be kicked from organization when inactive. 
+Based on the user activity (e.g. login, commits etc), and external collaborator can be kicked from organization when inactive. 
 
 # Getting started
 
